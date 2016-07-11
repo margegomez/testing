@@ -3,4 +3,4 @@ this is a test
 
 
 ##este es un subtítulo 
-###### este es un mini texto
+###### este es un mini subtítulo
